@@ -1,0 +1,8 @@
+{
+    "data": {
+        "id": "0005",
+        "name": "CNC Milling",
+        "introduction": "Many of the appliances and objects we use every day depend on Computer Numeric Control (CNC) Milling. It is a highly sophisticated piece of machinery that creates components using precise cutting tools. The machinist must be able to understand complex technical drawings, and have knowledge and experience of computer skills and software in order to become a skilled machine operator with an understanding of how various metals behave during the cutting process.",
+        "img": "../skills_images/0005.jpeg"
+    }
+}

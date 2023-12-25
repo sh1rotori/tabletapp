@@ -1,0 +1,8 @@
+{
+    "data": {
+        "id": "0003",
+        "name": "Mechanical Engineering CAD",
+        "introduction": "Computer aided design (CAD) uses specialist software to create two and three dimensional images and animations of projects both in manufacturing and for use in advertising and technical manuals. CAD can convey many types of information, including dimensions, types of material, and tolerances and is essential in offering solutions to both engineering and manufacturing problems. By producing photorealistic animations and videos, it can simulate how a design will actually function in the real world.",
+        "img": "../skills_images/0003.jpeg"
+    }
+}

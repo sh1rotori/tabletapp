@@ -1,0 +1,8 @@
+{
+    "data": {
+        "id": "0004",
+        "name": "CNC Turning",
+        "introduction": "When engineers want to know if a specific part of a design is going to work, they look to CNC Turning. The finished article is used to create pieces of machinery that are often highly-complex. A typical car has around 10,000 parts alone. A trained operator will be familiar with many types of materials, ensuring the dimensions of the finished piece exactly match the design specifications.",
+        "img": "../skills_images/0004.jpeg"
+    }
+}
